@@ -3,9 +3,12 @@
 Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data  & scikit-learn libraries for machine learning.
 Secondly, to learn how to hypertune the parameters using random search cross validation machine learning model.
 And in the end, to predict whether the loan applicant can replay the loan or not using voting ensembling techniques of combining the predictions from multiple machine learning algorithms.
-#Attributes in the dataset
+
+# Attributes in the dataset
+
 Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income, Coapplicant income, Loan Amount,Credit History, Property_Area, Loan_Status
-#Major Objervations From the data
+
+# Major Objervations From the data
 1.Applicants who are male and married tends to have more applicant income whereas applicant who are female and married have least applicant income
 
 2.Applicants who are male and are graduated have more applicant income over the applicants who have not graduated.
